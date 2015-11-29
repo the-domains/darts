@@ -1,6 +1,6 @@
 name: darts
 favicon: null
-layout_spectrum: 0.23206
+layout_spectrum: 0
 typography_spectrum: 0.05328
 title: 'Darts Hub on the grid!'
 cta:
@@ -22,10 +22,10 @@ color:
     - '#78B088'
     - '#C02028'
     - '#000000'
-  brandStrength: 0.811207
-  lightness: 0.25
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  brandStrength: 0.3125
+  lightness: 0.3125
+  saturation: 0.1875
+  rhythmicContrast: 0.75
 purpose:
   - name: null
     item: null
