@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#000000'
+    - '#007020'
+    - '#78B088'
+    - '#C02028'
+    - '#000000'
+  brandStrength: 0.811207
+  lightness: 0.530993
+  rhythmicContrast: 0.268018
+  saturation: 0.710586
+cta: {}
+layout_spectrum: 0.387387
+name: darts
+opengraph: {}
+purpose: {}
+typography_spectrum: 0
