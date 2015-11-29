@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://dartshub.com/'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - darts
   - venues
@@ -16,13 +16,13 @@ keywords:
   - '12200'
   - dartabase
   - arachnid
-description: 'ENTER YOUR ZIP CODE BELOW TO FIND THE PERFECT DARTS VENUE NEAR YOU!'
-datePublished: '2015-11-29T20:06:34.933Z'
-dateModified: '2015-11-29T20:06:24.502Z'
+description: The darts bar database on Darts Hub continues to grow and is nearing 5 digits.
+datePublished: '2015-11-29T20:09:17.886Z'
+dateModified: '2015-11-29T20:09:14.765Z'
 author: []
 related: []
 app_links: []
-title: Find a Place to Play Darts - Darts Hub
+title: Darts Bar Dartabase
 sourcePath: _posts/2015-11-29-find-a-place-to-play-darts-darts-hub.md
 published: true
 authors: []
