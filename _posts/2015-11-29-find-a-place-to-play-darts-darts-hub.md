@@ -17,8 +17,8 @@ keywords:
   - dartabase
   - arachnid
 description: The darts bar database on Darts Hub continues to grow and is nearing 5 digits.
-datePublished: '2015-11-29T20:09:17.886Z'
-dateModified: '2015-11-29T20:09:14.765Z'
+datePublished: '2015-11-29T20:13:54.414Z'
+dateModified: '2015-11-29T20:13:43.402Z'
 author: []
 related: []
 app_links: []
