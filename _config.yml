@@ -1,4 +1,20 @@
-analytics: {}
+name: darts
+favicon: null
+layout_spectrum: 0.387387
+typography_spectrum: 0.5
+title: 'Darts Hub on the grid!'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#000000'
@@ -8,11 +24,9 @@ color:
     - '#000000'
   brandStrength: 0.811207
   lightness: 0.530993
-  rhythmicContrast: 0.268018
   saturation: 0.710586
-cta: {}
-layout_spectrum: 0.387387
-name: darts
-opengraph: {}
-purpose: {}
-typography_spectrum: 0
+  rhythmicContrast: 0.268018
+purpose:
+  - name: null
+    item: null
+    url: null
