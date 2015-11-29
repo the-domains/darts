@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[darts]]></title>
-        <description><![CDATA[darts]]></description>
+        <title><![CDATA[Darts Hub on the grid!]]></title>
+        <description><![CDATA[Darts Hub on the grid!]]></description>
         <link>https://thegrid.ai/darts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 Nov 2015 19:53:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Nov 2015 19:54:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/darts/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Find a Place to Play Darts - Darts Hub]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/darts/darts-hub/index.html</link>
             <guid isPermaLink="false">13bb40e2-f378-40b3-bc96-6fd8e8508325</guid>
             <pubDate>Sun, 29 Nov 2015 19:52:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>https://thegrid.ai/darts/getting-started-on-the-grid/index.html</link>
-            <guid isPermaLink="false">10fe7f79-2fff-4fd7-9025-34ddb9aebad6</guid>
-            <pubDate>Sun, 29 Nov 2015 19:18:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
